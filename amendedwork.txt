@@ -1,3 +1,7 @@
 Hi, I am developer. I am building anew feature 2 in the product.
 Oh I am not aware of Feature 1. Anyways, my feature is independent of feature 1.
 I follow the rule (best practice) - Separation of Concerns!!!!!
+
+
+
+hey guys, you know what... feature 2 is completed.. let's test.
